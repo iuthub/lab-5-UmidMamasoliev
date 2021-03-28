@@ -39,11 +39,11 @@
 				
 				<dt>Credit Card</dt>
 				<dd>
-					<input type="text" name="cardNumber" maxlength="19" placeholder="Ex: 1234 5678 9012 3456" required> <br>
+					<input type="text" name="cardNumber" maxlength="19" placeholder="Ex: 1234 1234 1234 1234" required> <br>
 	      			<input type="radio" id="visa" name="cardType" value="Visa" checked>
 	        		<label for="visa">Visa</label>
 	        		<input type="radio" id="master" name="cardType" value="Master Card" >
-	        <label for="master">MasterCard</label><br>
+	        		<label for="master">MasterCard</label><br>
 				</dd>
 			</dl>
 			
